@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="971f738d-c4e9-4220-8864-499ae2c02279" name="Changes" comment="9.7_Question Answer checking test program 2">
+    <list default="true" id="971f738d-c4e9-4220-8864-499ae2c02279" name="Changes" comment="9.12 _Executive Manager project is commited">
+      <change afterPath="$PROJECT_DIR$/src/BetterRectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FillInQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuestionTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestBetterRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestQuestion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="9.8_QuestionTest2_1" />
+        <entry key="$PROJECT_DIR$" value="9.13_3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,8 +46,9 @@
     "Application.EmployeeManagerTest.executor": "Run",
     "Application.QuestionTest2.executor": "Run",
     "Application.QuestionTest4.executor": "Run",
+    "Application.TestBetterRectangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "9.7__QuestionTest2__3",
+    "git-widget-placeholder": "9.13__4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/InheritancePractice/src/Main.java"
   }
@@ -123,7 +126,39 @@
       <option name="project" value="LOCAL" />
       <updated>1732205866865</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="9.8_Multiple Choise Question">
+      <option name="closed" value="true" />
+      <created>1732206578026</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732206578026</updated>
+    </task>
+    <task id="LOCAL-00010" summary="9.12 Person class project is commited">
+      <option name="closed" value="true" />
+      <created>1732208025523</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732208025523</updated>
+    </task>
+    <task id="LOCAL-00011" summary="9.12 _Executive Manager project is commited">
+      <option name="closed" value="true" />
+      <created>1732208443488</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732208443488</updated>
+    </task>
+    <task id="LOCAL-00012" summary="9.12 _Executive Manager project is commited">
+      <option name="closed" value="true" />
+      <created>1732208648602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732208648602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,7 +169,10 @@
     <MESSAGE value="9.5_Question Answer checking test program" />
     <MESSAGE value="9.8_Question Answer checking test program" />
     <MESSAGE value="9.7_Question Answer checking test program 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.7_Question Answer checking test program 2" />
+    <MESSAGE value="9.8_Multiple Choise Question" />
+    <MESSAGE value="9.12 Person class project is commited" />
+    <MESSAGE value="9.12 _Executive Manager project is commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.12 _Executive Manager project is commited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
